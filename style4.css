@@ -1,0 +1,32 @@
+.contact-us-heading{width: 100%;
+                    margin-top: 50px;
+                    font-family: 'Cinzel', serif;
+                    color: white;
+                    background: linear-gradient(to left, #00CED1 ,#A9A9A9);
+                    font-size: 17px;}
+
+.contact-us{margin-top: 100px;
+            background-color: #A9A9A9;
+            width: 100%;
+            height: 100vh;
+            color: white;}
+
+.office-adress{padding-top: 40px;
+               font-family: 'Cinzel', serif;}
+
+.office-adress-detail{padding-top: 20px;
+                      font-family: 'Noto Serif', serif;}
+
+.contact-detail1{padding-top: 40px;
+                display: inline;
+                font-family: 'Noto Serif', serif;}
+
+.contact-detail2{display: inline;
+                font-family: 'Noto Serif', serif;}
+
+.contact-detail3{display: inline;
+                font-family: 'Noto Serif', serif;}
+
+.social-links{padding-top: 30px;}
+
+.listed-social-links{font-family: 'Cinzel', serif;}

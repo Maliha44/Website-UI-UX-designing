@@ -1,0 +1,31 @@
+.services{width: 100%;
+          margin-top: 50px;
+          font-family: 'Cinzel', serif;
+          color: white;
+          background: linear-gradient(to left, #00CED1 ,#A9A9A9);
+          font-size: 17px;}
+
+.listed-services{margin-top: 80px;
+                 color: white;
+                 display: flex;
+                 justify-content: space-between;
+                 justify-content: space-around;}
+
+.IT-service1{width: 350px;
+             height: 450px;
+             background-color: #A9A9A9;}
+
+.IT-service2{width: 350px;
+             height: 450px;
+             background-color: #00CED1;}
+
+.IT-service3{width: 350px;
+             height: 450px;
+             background-color:  #A9A9A9;}
+
+.seo-heading{padding: 20px;
+             font-family: 'Cinzel', serif;}
+
+.seo-para{width: 250px;
+          padding-top: 10px;
+          font-family: 'Noto Serif', serif;}
